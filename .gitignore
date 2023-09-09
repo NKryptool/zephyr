@@ -1,0 +1,9 @@
+# Carpeta del entorno virtual
+venv/
+
+# Carpeta __pycache__
+__pycache__/
+
+# Archivos generados por Python
+*.pyc
+*.pyo
